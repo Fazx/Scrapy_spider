@@ -1,4 +1,3 @@
-# Scrapy_spider
 
 # 基于Scrapy-Redis框架与Mongodb的分布式爬虫-elasticsearch搜索引擎打造
 
