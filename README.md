@@ -140,6 +140,8 @@ http.cors.allow-headers: "X-Requested-With,Content-Type,Content-Length,X-User"
 
 这一部分我经过了漫长的调试和排错，每重试一次都要开上十个不同地方的shell一步一步输命令...如果在Linux下会好很多。
 
+(其实多手动加几个环境变量也可以解决)
+
 elasticsearch此时已经自动建立了mapping映射：
 
 ![](http://ww1.sinaimg.cn/large/b12bdb25ly1ft9pbmxikcj20qy03saae.jpg)
